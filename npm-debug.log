@@ -1,0 +1,18 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'nodejs', '/usr/bin/npm' ]
+2 info using npm@1.1.59
+3 info using node@v0.8.12
+4 error Error: ENOENT, readdir '/usr/share/npm/man/man1/'
+5 error If you need help, you may report this log at:
+5 error     <http://github.com/isaacs/npm/issues>
+5 error or email it to:
+5 error     <npm-@googlegroups.com>
+6 error System Linux 3.2.0-29-virtual
+7 error command "nodejs" "/usr/bin/npm"
+8 error cwd /media/storage/projects/temple
+9 error node -v v0.8.12
+10 error npm -v 1.1.59
+11 error path /usr/share/npm/man/man1/
+12 error code ENOENT
+13 error errno 34
+14 verbose exit [ 34, true ]
